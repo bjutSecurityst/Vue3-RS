@@ -20,13 +20,13 @@
     # 验证安装
     pnpm -v
 ```
-TODO: git clone xxx
+
 ```python
     # 创建 & 激活虚拟环境
     conda create -n vue3-rs python=3.8 -y
     conda activate vue3-rs
 
-    git clone 
+    git clone https://github.com/bjutSecurityst/Vue3-RS
     cd vue3-rs
 
     # 安装依赖
